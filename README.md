@@ -1,7 +1,6 @@
 <div align=center>
 
-# Hi! 
-# 👋🏻  I'm Youjin Lee!
+# 👋🏻 Hi! I'm Youjin Lee!
 
 I'm Junior Back-end Developer
 
