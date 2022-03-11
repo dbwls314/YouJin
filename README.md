@@ -1,9 +1,16 @@
 <div align=center>
 
-# Hi! 👋🏻  I'm Youjin Lee!
+# Hi! 
+# 👋🏻  I'm Youjin Lee!
 
 I'm Junior Back-end Developer
 
+<div>
+
+    ---------
+   
+<div>
+  
 ![YouJin's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwls314&show_icons=true&theme=material-palenight)
 
 
