@@ -2,4 +2,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwls314&show_icons=true&theme=material-palenight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dbwls314)](https://github.com/anuraghazra/github-readme-stats)
+
