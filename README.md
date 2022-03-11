@@ -1,6 +1,8 @@
+<div align=center>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwls314&show_icons=true&theme=material-palenight)
 
 
-![ 파이썬 ](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)
-![ MySQL ](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
-![ Django ](https://img.shields.io/badge/Django-092E20.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
+# Skills
+[![Python Badge](https://img.shields.io/badge/-Python-grey?style=plastic&logo=python&logoColor=white)](https://www.python.org/) 
+[![Django Badge](https://img.shields.io/badge/-Django-%23092E20?style=plastic&logo=django)](https://docs.djangoproject.com/en/4.0/) 
+[![MySQL Badge](https://img.shields.io/badge/-MySQL-%234479A1?style=plastic&logo=mysql&logoColor=white)](https://www.mysql.com/)
