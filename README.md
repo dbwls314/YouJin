@@ -6,7 +6,7 @@ I'm Junior Back-end Developer
 
 <div>
 
-    ---------
+---------
    
 <div>
   
