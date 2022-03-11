@@ -2,4 +2,3 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dbwls314&show_icons=true&theme=material-palenight)
 
-https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%dbwls314counter&count_bg=%2332BAC0&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com
